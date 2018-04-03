@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 import math
-
 from operator import itemgetter
 
 #################################################
